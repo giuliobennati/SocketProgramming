@@ -1,0 +1,6 @@
+/Users/giuliobennati/Desktop/TcpServer/TcpServer/obj/Debug/TcpServer.csproj.AssemblyReference.cache
+/Users/giuliobennati/Desktop/TcpServer/TcpServer/obj/Debug/TcpServer.csproj.CoreCompileInputs.cache
+/Users/giuliobennati/Desktop/TcpServer/TcpServer/bin/Debug/TcpServer.exe
+/Users/giuliobennati/Desktop/TcpServer/TcpServer/bin/Debug/TcpServer.pdb
+/Users/giuliobennati/Desktop/TcpServer/TcpServer/obj/Debug/TcpServer.exe
+/Users/giuliobennati/Desktop/TcpServer/TcpServer/obj/Debug/TcpServer.pdb
