@@ -1,0 +1,21 @@
+Create a console application that will be used by 2 devices
+The scope of this console app is to exchange message between these 2 devices using network(so using socket)
+
+So each of the devices have to listen for incoming message and also has send message.
+
+NOTES:
+->Socket are bi-direzional, that mean that you can write/read using the same socket.
+->before sending the message, we need to convert it into a byte array
+->thanks to the ‘receive‘ method we are going to get a byte array as answer by the server.
+
+
+COSE DA FARE DOMANI:
+stampa un menu con i seguenti campi:
+a)esegui una connessione
+b)manda un messaggio (inserisci una stringa)
+c)elimina la connessione
+
+
+https://www.geeksforgeeks.org/socket-programming-in-c-sharp/
+https://www.ibm.com/docs/en/zos/2.2.0?topic=otap-clientserver-socket-programs-blocking-nonblocking-asynchronous-socket-calls
+https://www.c-sharpcorner.com/article/socket-programming-in-C-Sharp/

@@ -1,0 +1,15 @@
+C:\Users\giuli\Desktop\MessageExchange\MessageExchange\MessageExchange\bin\Debug\net6.0\MessageExchange.exe
+C:\Users\giuli\Desktop\MessageExchange\MessageExchange\MessageExchange\bin\Debug\net6.0\MessageExchange.deps.json
+C:\Users\giuli\Desktop\MessageExchange\MessageExchange\MessageExchange\bin\Debug\net6.0\MessageExchange.runtimeconfig.json
+C:\Users\giuli\Desktop\MessageExchange\MessageExchange\MessageExchange\bin\Debug\net6.0\MessageExchange.dll
+C:\Users\giuli\Desktop\MessageExchange\MessageExchange\MessageExchange\bin\Debug\net6.0\ref\MessageExchange.dll
+C:\Users\giuli\Desktop\MessageExchange\MessageExchange\MessageExchange\bin\Debug\net6.0\MessageExchange.pdb
+C:\Users\giuli\Desktop\MessageExchange\MessageExchange\MessageExchange\obj\Debug\net6.0\MessageExchange.csproj.AssemblyReference.cache
+C:\Users\giuli\Desktop\MessageExchange\MessageExchange\MessageExchange\obj\Debug\net6.0\MessageExchange.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\giuli\Desktop\MessageExchange\MessageExchange\MessageExchange\obj\Debug\net6.0\MessageExchange.AssemblyInfoInputs.cache
+C:\Users\giuli\Desktop\MessageExchange\MessageExchange\MessageExchange\obj\Debug\net6.0\MessageExchange.AssemblyInfo.cs
+C:\Users\giuli\Desktop\MessageExchange\MessageExchange\MessageExchange\obj\Debug\net6.0\MessageExchange.csproj.CoreCompileInputs.cache
+C:\Users\giuli\Desktop\MessageExchange\MessageExchange\MessageExchange\obj\Debug\net6.0\MessageExchange.dll
+C:\Users\giuli\Desktop\MessageExchange\MessageExchange\MessageExchange\obj\Debug\net6.0\ref\MessageExchange.dll
+C:\Users\giuli\Desktop\MessageExchange\MessageExchange\MessageExchange\obj\Debug\net6.0\MessageExchange.pdb
+C:\Users\giuli\Desktop\MessageExchange\MessageExchange\MessageExchange\obj\Debug\net6.0\MessageExchange.genruntimeconfig.cache
